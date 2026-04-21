@@ -10,6 +10,7 @@
 * ML for molecules & drug design
 
 🌐 https://qym7.github.io/
+
 📖 https://www.linkedin.com/in/ymqin
 
 
