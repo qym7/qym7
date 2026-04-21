@@ -16,14 +16,14 @@
 <div align="center">
   <br>
   <div id="badges">
-    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={andreamiele}&theme=github">
-      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=andreamiele&theme=github" alt="LinkedIn Badge" />
+    <a href="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username={qym7}&theme=github">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qym7&theme=github" alt="LinkedIn Badge" />
     </a>
-    <a href="https://github-readme-stats.vercel.app/api?username=andreamiele">
-      <img src="https://github-readme-stats.vercel.app/api?username=andreamiele" alt="Portfolio Badge" />
+    <a href="https://github-readme-stats.vercel.app/api?username=qym7">
+      <img src="https://github-readme-stats.vercel.app/api?username=qym7" alt="Portfolio Badge" />
     </a>
-    <a href="https://github-readme-streak-stats.herokuapp.com/?user=andreamiele">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=andreamiele" alt="CV/Resume Badge" />
+    <a href="https://github-readme-streak-stats.herokuapp.com/?user=qym7">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=qym7" alt="CV/Resume Badge" />
     </a>
     
   </div>
