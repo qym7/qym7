@@ -1,7 +1,7 @@
 👋🏻 Hi, I’m Yiming
-🦉 PhD student at EPFL
+🦉 PhD student at EPFL & Research Intern @ Terray
 
-💻 Actively searching for internships - I enjoy both brainstorming and engineering!
+💻 Actively searching for jobs - I enjoy both brainstorming and engineering!
 
 🔭 Interested in:
 * Diffusion & flow matching models
